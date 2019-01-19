@@ -103,7 +103,7 @@ Sau đó chọn `Open`, ta sẽ có cửa sổ mới hiện ra, sau đó nhập 
 ![](/images/img-putty/Screenshot_777.png)
 
 ---
-Thực hiện bởi [cloud365.vn](https://cloud365.vn/)
+Thực hiện bởi <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
 
 
 
