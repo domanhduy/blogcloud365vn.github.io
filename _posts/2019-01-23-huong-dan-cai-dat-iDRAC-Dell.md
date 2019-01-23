@@ -66,83 +66,92 @@ Login thành công hiển thị giao diện dưới
 ## 3.Giám sát các thông tin trên iDRAC ##
 
 **3.1. Tab server**
+
 Properties: Cung cấp các thông tin chung về server và đường link truy cập nhanh tới các mục khác, cửa sổ console để remotr desktop, thao tác nhanh đối với server như Power ON /OFF..., thông tin về về server như BIOS, IP, Firmware OS.
-![](https://i.imgur.com/7PSjQdi.png)
+
+![](/images/img-idrac-dell/idrac11.png)
 
 +Attached Media: Cấu hình cho phép việc đính kèm file ISO của OS lên hay không, chia sẻ file hay không.
 
-![](https://i.imgur.com/5E8MTk2.png)
+![](/images/img-idrac-dell/idrac12.png)
 
 +Log: Hiển thị thông tin log đối với server có sắp xếp theo mức độ, time/date
 
-![](https://i.imgur.com/B8tHf7c.png)
+![](/images/img-idrac-dell/idrac13.png)
 
 +Power / Thermal: Hiển thị các thông tin về nguồn và nhiệt độ của server
 
-![](https://i.imgur.com/LjfVkz2.png)
+![](/images/img-idrac-dell/idrac14.png)
 
 +Virtual Console: Thiết lập về các thông số cho việc console tới server từ xa.
 
-![](https://i.imgur.com/SH2KzBq.png)
+![](/images/img-idrac-dell/idrac15.png)
 
 +Setup: Thiết lập thứ tự boot cho server khi khởi động
 
-![](https://i.imgur.com/c64Efcj.png)
+![](/images/img-idrac-dell/idrac16.png)
 
 **3.2. Tab iDRAC Settings**
+
 Cung cấp thông tin về các thông số setup cho iDRAC như IP network, user...
 
-![](https://i.imgur.com/l4xgN26.png)
+![](/images/img-idrac-dell/idrac17.png)
 
 +Network: Thông tin cấu hình network cho iDRAC
 
-![](https://i.imgur.com/FAsZDUy.png)
+![](/images/img-idrac-dell/idrac18.png)
 
 +User Authentication: Thông tin liên quan đến setup user login iDRAC
 
-![](https://i.imgur.com/MR6GTMx.png)
+![](/images/img-idrac-dell/idrac19.png)
 
 +Update and Rollback: Update firmware cho iDRAC
-![](https://i.imgur.com/l6lAzzx.png)
+
+![](/images/img-idrac-dell/idrac20.png)
 
 +Sessions: Hiển thị phiên kết nối vào trình iDRAC
 
-![](https://i.imgur.com/N7mcLeW.png)
+![](/images/img-idrac-dell/idrac21.png)
 
 **3.3. Tab Hardware**
 
 Cung cấp đầy đủ các thông tin về phần cứng của server
 
-![](https://i.imgur.com/h7q3CgH.png)
+![](/images/img-idrac-dell/idrac22.png)
 
 +Batteries: Hiển thị trạng thái của pin main
 
-![](https://i.imgur.com/LVQ9joD.png)
+![](/images/img-idrac-dell/idrac23.png)
 
 +Fan: Thạng thái fan trong server
 
-![](https://i.imgur.com/qKd96mL.png)
+![](/images/img-idrac-dell/idrac24.png)
 
 +CPU: Trạng thái của CPU
 
-![](https://i.imgur.com/aC96cJU.png)
+![](/images/img-idrac-dell/idrac25.png)
 
 +Memory: Trạng thái RAM
 
-![](https://i.imgur.com/QJEoR7X.png)
+![](/images/img-idrac-dell/idrac26.png)
 
 +Front Panel: Trạng thái biểu tượng phía mặt trước của server
 
-![](https://i.imgur.com/khf6pBt.png)
+![](/images/img-idrac-dell/idrac27.png)
+
 +Network Devices: Trạng thái và thông tin về các card mạng trên server và các card cắm thêm.
-![](https://i.imgur.com/UoTxwhg.png)
+
+![](/images/img-idrac-dell/idrac28.png)
 
 +Power Supplies: Thông tin trạng thái về nguồn server
 
-![](https://i.imgur.com/4I3jQyU.png)
+![](/images/img-idrac-dell/idrac29.png)
 
 ## 3.4. Tab chức năng storage ##
 
 Hiển thị thông tin về storage của server: Trạng thái raid, disk...
 
-![](https://i.imgur.com/qyo5ru4.png)
+![](/images/img-idrac-dell/idrac30.png)
+
+---
+Thực hiện bởi <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
